@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062992448092",
+    "firebase_url": "https://run-my-lockdown.firebaseio.com",
+    "project_id": "run-my-lockdown",
+    "storage_bucket": "run-my-lockdown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062992448092:android:94ee9f5df1e40220b6f499",
+        "android_client_info": {
+          "package_name": "com.harcomboroughhackers.run_my_lockdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062992448092-ak90ojd13g2969jn7lk5rpgnemcmll1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdGKnUFMeUqLGjpQkiWKzd_1H0PxYmE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062992448092-ak90ojd13g2969jn7lk5rpgnemcmll1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062992448092-m216b7nqi5cephu06ecjcofqvq206epf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harcomboroughhackers.runMyLockdown"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

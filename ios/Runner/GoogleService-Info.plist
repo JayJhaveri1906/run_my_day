@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1062992448092-m216b7nqi5cephu06ecjcofqvq206epf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1062992448092-m216b7nqi5cephu06ecjcofqvq206epf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwAS2UgBybOTGZAHwI_aC7hU5dF5Y0-y4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1062992448092</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.harcomboroughhackers.runMyLockdown</string>
+	<key>PROJECT_ID</key>
+	<string>run-my-lockdown</string>
+	<key>STORAGE_BUCKET</key>
+	<string>run-my-lockdown.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1062992448092:ios:6a637a540d43c324b6f499</string>
+	<key>DATABASE_URL</key>
+	<string>https://run-my-lockdown.firebaseio.com</string>
+</dict>
+</plist>
