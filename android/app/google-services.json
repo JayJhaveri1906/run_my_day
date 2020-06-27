@@ -8,12 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1062992448092:android:94ee9f5df1e40220b6f499",
+        "mobilesdk_app_id": "1:1062992448092:android:acd5bad5bd3cbb38b6f499",
         "android_client_info": {
           "package_name": "com.harcomboroughhackers.run_my_lockdown"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "1062992448092-f9jlb0kc6mnjmlsmfsg5ei3nl587cfem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harcomboroughhackers.run_my_lockdown",
+            "certificate_hash": "cb23da062cde2ee98d23b34c30cc59edb30d5b21"
+          }
+        },
         {
           "client_id": "1062992448092-ak90ojd13g2969jn7lk5rpgnemcmll1l.apps.googleusercontent.com",
           "client_type": 3
