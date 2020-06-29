@@ -1,10 +1,10 @@
-import 'package:darksky_weather/darksky_weather_browser.dart';
+import 'package:darksky_weather/darksky_weather_io.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:run_my_lockdown/repositories/weather_repository/weather_repository.dart';
 
 class DarkskyWeatherRepository extends WeatherRepositorty {
   var darksky = new DarkSkyWeather("31974ade4f1df7b5e51ab51ebc72f07b",
-      language: Language.English, units: Units.Auto);
+      language: Language.English, units: Units.UK2);
 
   @override
   Future<Forecast> getWeatherForcast({LatLng location}) async {
